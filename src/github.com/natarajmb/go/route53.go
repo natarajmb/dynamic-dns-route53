@@ -5,8 +5,7 @@
 // a unix cron like program to update Route53 record every time
 // external IP changes.
 //
-// nataraj.basappa
-//@version 1.0, 02/12/2015
+// nataraj.basappa <nataraj.basappa@yahoo.com>
 //
 
 package main
